@@ -10,5 +10,6 @@ public class SceneA : MonoBehaviour
     public void GotoSceneB()
     {
         SceneManager.LoadScene("TestB");
+        //test commit dari github browser
     }
 }
