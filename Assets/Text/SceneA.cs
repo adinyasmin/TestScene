@@ -12,4 +12,5 @@ public class SceneA : MonoBehaviour
         SceneManager.LoadScene("TestB");
         //test commit dari github browser
     }
+    //test dummy
 }
